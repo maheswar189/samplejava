@@ -48,7 +48,7 @@ public class Application {
 
     public static void main(String[] args) throws Exception {
         new Application().run();
-        new Application().run();
+        new Application().run();//grheheert
     }
 
     private void run() throws Exception {
