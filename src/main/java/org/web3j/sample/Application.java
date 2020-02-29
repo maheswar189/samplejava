@@ -48,6 +48,7 @@ public class Application {
 
     public static void main(String[] args) throws Exception {
         new Application().run();
+        new Application().run();
     }
 
     private void run() throws Exception {
