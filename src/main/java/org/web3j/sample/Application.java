@@ -48,9 +48,12 @@ public class Application {
 
     public static void main(String[] args) throws Exception {
         new Application().run();
+        new Application().run();
     }
 
     private void run() throws Exception {
+        new Application().run();
+        new Application().run();
 
         // We start by creating a new web3j instance to connect to remote nodes on the network.
         // Note: if using web3j Android, use Web3jFactory.build(...
