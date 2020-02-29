@@ -10,5 +10,7 @@ public class GreeterContractIT {
     @Test
     public void testGreeterContract() throws Exception {
         Application.main(new String[]{ });
+        Application.main(new String[]{ });
+        
     }
 }
