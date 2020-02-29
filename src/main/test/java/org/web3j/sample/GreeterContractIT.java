@@ -11,7 +11,6 @@ public class GreeterContractIT {
     public void testGreeterContract() throws Exception {
         Application.main(new String[]{ });
         Application.main(new String[]{ });
-        Application.main(new String[]{ });
         
     }
 }
